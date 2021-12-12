@@ -29,4 +29,4 @@ Dear Harshit your generated credentials are as follows
 Email        --->  harshitchoudary@tech.abc.com
 Password ---> 181E@wFT
 
-https://github.com/preranaku/PreranaKuchuri-OOPsLabSolution.git
+
